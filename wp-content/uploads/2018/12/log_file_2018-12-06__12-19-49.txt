@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Homepage were successfully downloaded!
+Initial max execution time = 400
+Files info:
+Site URL = http://localhost/cmw
+Data file = C:\xampp\htdocs\cmw/wp-content/uploads/2018/12/demo-content-import-file_2018-12-06__12-19-49.xml
+Widget file = C:\xampp\htdocs\cmw/wp-content/uploads/2018/12/demo-widgets-import-file_2018-12-06__12-19-49.json
+Customizer file = not defined!
+Redux files:
+elevation_options -> C:\xampp\htdocs\cmw/wp-content/uploads/2018/12/demo-redux-import-file_0-2018-12-06__12-19-49.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+Add your code here that will be executed before the widgets get imported!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+
+Footer Sidebar : 
+
+Elevation: About Us - Elevation - Widget already exists
+Recent Posts - No Title - Widget already exists
+MailChimp Sign-Up Form - Newsletter - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: elevation_options finished successfully!
+
+---pt-ocdi/after_import---
+

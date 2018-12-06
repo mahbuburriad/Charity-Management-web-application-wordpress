@@ -1,0 +1,200 @@
+
+---Downloaded files---
+The import files for: Homepage were successfully downloaded!
+Initial max execution time = 400
+Files info:
+Site URL = http://localhost/cmw
+Data file = C:\xampp\htdocs\cmw/wp-content/uploads/2018/12/demo-content-import-file_2018-12-06__12-02-14.xml
+Widget file = C:\xampp\htdocs\cmw/wp-content/uploads/2018/12/demo-widgets-import-file_2018-12-06__12-02-14.json
+Customizer file = not defined!
+Redux files:
+elevation_options -> C:\xampp\htdocs\cmw/wp-content/uploads/2018/12/demo-redux-import-file_0-2018-12-06__12-02-14.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "KYA025" (Media)
+[ERROR] Failed to import "KYA030" (Media)
+[ERROR] Failed to import "KYA043" (Media)
+
+
+---pt-ocdi/before_widgets_import---
+Add your code here that will be executed before the widgets get imported!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Archives - No Title - Widget already exists
+
+Footer Sidebar : 
+
+Elevation: About Us - Elevation - Imported
+Recent Posts - No Title - Imported
+MailChimp Sign-Up Form - Newsletter - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: elevation_options finished successfully!
+
+---pt-ocdi/after_import---
+
