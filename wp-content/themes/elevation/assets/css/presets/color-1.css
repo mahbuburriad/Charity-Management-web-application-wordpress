@@ -1,0 +1,70 @@
+
+a:hover,
+.action .btn:hover {
+    color: #ea6153 !important;
+}
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>li>a:focus, 
+.navbar-default .navbar-nav>li>a:hover,
+.events-slider .event-item time,
+.entry-title a:hover,
+.designation a,
+.widget-contact li:before,
+.post-meta a,
+.entry-footer .edit-link a,
+.post-tag a,
+.logged-in-as a:last-child {
+	color: #ea6153;
+}
+.btn,
+.causes-slider .progress-bar,
+.target:before, .target:after, 
+.events .section-sub-title:before, 
+.events .section-sub-title:after,
+.causes-slider .owl-page.active,
+.section-border:before, 
+.section-border:after, 
+.section-border span:before, 
+.section-border span:after,
+.target:before, 
+.target:after, 
+.events .section-sub-title:before, 
+.events .section-sub-title:after,
+.events-slider .event-title:before, 
+.events-slider .event-title:after,
+.widget-title:before, 
+.widget-title:after,
+.post-meta:before, 
+.post-meta:after,
+.leave-comment #reply-title:before, 
+.post-comment #reply-title:before, 
+.leave-comment #reply-title:after, 
+.post-comment #reply-title:after,
+.scroll-to-top,
+.elevation-button, 
+.elevation-amount-button, 
+input[type="button"], 
+input[type="submit"], 
+.elevation-amount-button.active, 
+.elevation-amount-button:hover {
+	background-color: #ea6153;
+}
+.section-border {
+	border-left: 1px solid #ea6153;
+	border-right: 1px solid #ea6153;
+}
+.itemFilter .current {
+    background-color: #ea6153;
+    border-color: #ea6153;
+}
+.partners .parallax-style {
+	background: rgba(-, -, -, 0.85);
+}
+.wpcf7-form .wpcf7-form-control:focus,
+.search-form input:focus {
+    border-color: #e74c3c;
+}
